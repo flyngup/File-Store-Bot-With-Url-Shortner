@@ -9,7 +9,7 @@ class Config(object):
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "MoneyKamalo.com")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "0eefb93e1e3ce9470a7033115ceb1bad13a9d674")
   BOT_OWNER = int(os.environ.get("BOT_OWNER" 6536720893"))
-  DATABASE_URL = os.environ.get("DATABASE_URL"mongodb-srv://sushankm16: 411WAfPYKWyqPIDD@cluster0.sngp9pz.mongodb.net/?retrywrites=true&w-majority"))
+  DATABASE_URL = os.environ.get("DATABASE_URL"mongodb-srv://sushankm16:411WAfPYKWyqPIDD@cluster0.sngp9pz.mongodb.net/?retrywrites=true&w-majority"))
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL"1002025824151")
   LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL"1001932767930"))
   BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "").split())
